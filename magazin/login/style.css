@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+
+.left {
+    height: 729px;
+    width: 50%;
+    background-color: #1C2536;
+}
+
+.flackStart {
+    margin-left: 150px;
+    margin-top: 300px;
+    width: 400px;
+}
+
+
+.wel {
+    position: relative;
+    left: 20px;
+    top: 300px;
+    color: white;
+}
+
+.all{
+    display: flex;
+}
+
+.right{
+    gap: 50px;
+    margin-left: 300px;
+    margin-top: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.password{
+    height: 30px;
+    width: 300px;
+}
+
+.name{
+    width: 300px;
+    height: 30px;
+}
+
+.btnLog{
+    height: 30px;
+    background-color: #2563EB;
+    border: none;
+    border-radius: 5px;
+}
+.pasword{
+    background-color: transparent;
+    border: none;
+    color: #2563EB;
+    cursor: pointer;
+}

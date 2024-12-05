@@ -1,0 +1,214 @@
+* {
+    margin: 0px;
+}
+
+.top {
+    background-color: #1C2536;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.size-6 {
+    width: 20px;
+    color: white;
+    position: relative;
+    bottom: 15px;
+}
+
+.inpSearch {
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    background-color: #1C2536;
+    border: none;
+}
+
+
+.notf {
+    color: white;
+    width: 20px;
+}
+
+.rights {
+    margin-right: 20px;
+}
+
+.img {
+    margin-top: 10px;
+    width: 30px;
+    background-color: #1C2536;
+    border-radius: 50%;
+}
+
+.p {
+    color: white;
+    position: relative;
+    bottom: 10px;
+}
+
+.dash {
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.prod {
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.btnSVG1 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 13px;
+}
+.btnSVG2 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 13px;
+}
+.btnSVG3 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 13px;
+}
+
+.left {
+    padding: 20px;
+    background-color: #1C2536;
+    width: 20%;
+    height: 639px;
+}
+
+.h31,.h32,.h33 {
+    color: white;
+}
+
+.other {
+    cursor: pointer;
+    display: flex;
+    padding: 10px;
+}
+
+.all {
+    display: flex;
+    gap: 50px;
+}
+
+.h2 {
+    padding: 20px;
+}
+
+.frm {
+    padding: 20px;
+    width: 500px;
+}
+
+.svgAll {
+    width: 10px;
+}
+
+.img2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.randomUser {
+    display: flex;
+}
+
+.user {
+    position: relative;
+    top: 20px;
+    right: 130px;
+    display: flex;
+}
+
+.svgleft {
+    width: 13px;
+}
+
+.flex {
+    display: flex;
+}
+
+.sp {
+    color: grey;
+    font-size: 15px;
+}
+
+.pp {
+    font-size: 20px;
+    color: green;
+}
+
+.table1 {
+    margin-top: 70px;
+}
+
+.table1 td {
+    padding: 7px;
+}
+.table2 td {
+    padding: 7px;
+}
+
+
+.table2{
+    width: 100%;
+    border: none;
+}
+
+tbody{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+}
+
+
+.paid{
+    background-color: rgba(0, 128, 0, 0.875);
+    padding: 5px;
+    border-radius: 5px;
+    color: lawngreen;
+}
+.noPaid{
+    background-color: rgba(128, 0, 0, 0.875);
+    padding: 5px;
+    border-radius: 5px;
+    color: lightcoral;
+}
+
+
+fieldset{
+    width: 400px;
+}
+
+
+.alll{
+    width: 75%;
+    position: relative;
+    bottom: 190px;
+    left: 350px;
+    /* gap: 50px; */
+    justify-content: space-evenly;
+    display: flex;
+}
+body{
+    height: 729px;
+}
+.l{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}

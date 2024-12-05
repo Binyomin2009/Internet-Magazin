@@ -1,0 +1,204 @@
+* {
+    margin: 0px;
+}
+
+table {
+
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 65%;
+    margin-right: 500px;
+}
+
+th {
+    border: 1px solid black;
+}
+
+
+.top {
+    background-color: #1C2536;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.size-6 {
+    width: 20px;
+    color: white;
+    position: relative;
+    bottom: 15px;
+}
+
+.inpSearch {
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    background-color: #1C2536;
+    border: none;
+}
+
+
+.notf {
+    color: white;
+    width: 20px;
+}
+
+.rights {
+    margin-right: 20px;
+}
+
+.img {
+    margin-top: 10px;
+    width: 30px;
+    background-color: #1C2536;
+    border-radius: 50%;
+}
+
+.p {
+    color: white;
+    position: relative;
+    bottom: 10px;
+}
+
+.dash {
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.prod {
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.btnSVG1 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 13px;
+}
+
+.btnSVG2 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 13px;
+}
+
+.btnSVG3 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: -33px;
+}
+
+.left {
+    padding: 20px;
+    background-color: #1C2536;
+    width: 20%;
+    height: 639px;
+}
+
+.h31,
+.h32,
+.h33 {
+    color: white;
+}
+
+.other {
+    cursor: pointer;
+    display: flex;
+    padding: 10px;
+}
+
+.all {
+    display: flex;
+    gap: 30px;
+}
+
+table {
+    margin: auto;
+    width: 70%;
+}
+
+.imgs {
+    width: 100px;
+    height: 48px;
+    border-radius: 10px;
+}
+
+.chek {
+    text-align: center;
+    margin: auto;
+}
+
+.add {
+    background-color: #2563EB;
+    border: none;
+    width: 100px;
+    height: 30px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 5px 10px;
+
+    cursor: pointer;
+}
+
+.product{
+    display: flex;  
+}
+
+.div{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.prods{
+    width: 30%;
+}
+
+.inv{
+    text-align: center;
+    width: 18%;
+}
+
+.cats{
+    font-size: 20px;
+    /* height: 100%; */
+    text-align: center;
+    /* border: 1px solid black; */
+    /* width: 18%; */
+}
+
+.size{
+    color: green;
+    width: 30px;
+    /* height: 16px; */
+}
+.size-5{
+    width: 30px;
+    color: red;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+}
+
+
+.del{
+    position: relative;
+    left: 700px;
+    bottom: 30px;
+    color: red;
+    width: 40px;
+}
+
+.h33{
+    margin-top: -46px;
+}

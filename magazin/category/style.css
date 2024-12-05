@@ -1,0 +1,183 @@
+* {
+    margin: 0px;
+}
+
+.top {
+    background-color: #1C2536;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.size-6 {
+    width: 20px;
+    color: white;
+    position: relative;
+    bottom: 15px;
+}
+
+.inpSearch {
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    background-color: #1C2536;
+    border: none;
+}
+
+
+.notf {
+    color: white;
+    width: 20px;
+}
+
+.rights {
+    margin-right: 20px;
+}
+
+.img {
+    margin-top: 10px;
+    width: 30px;
+    background-color: #1C2536;
+    border-radius: 50%;
+}
+
+.p {
+    color: white;
+    position: relative;
+    bottom: 10px;
+}
+
+.dash {
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.prod {
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.btnSVG1 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 13px;
+}
+
+.btnSVG2 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 13px;
+}
+
+.btnSVG3 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 13px;
+}
+
+.left {
+    padding: 20px;
+    background-color: #1C2536;
+    width: 15%;
+    height: 639px;
+}
+
+.h31,
+.h32,
+.h33 {
+    color: white;
+}
+
+.other {
+    cursor: pointer;
+    display: flex;
+    padding: 10px;
+}
+
+.grid {
+    position: absolute;
+    top: 50px;
+    left: 260px;
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    gap: 5px;
+}
+
+.all {
+    display: flex;
+}
+
+
+
+
+.image {
+    width: 220px;
+    height: 220px;
+}
+
+.div {
+    text-align: start;
+}
+
+
+
+
+.all2 {
+    gap: 20px;
+    border: 1px solid #1C2536;
+    padding: 10px;
+    gap: 10px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.btns {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.size-5 {
+    width: 30px;
+    /* color: black; */
+    cursor: pointer;
+}
+
+
+.btnEdit{
+    color: blue;
+    background-color: transparent;
+    border: none;
+}
+
+.btnDel{
+    background-color: transparent;
+    border: none;
+    color: red;
+}
+
+.name{
+    text-align: center;
+}
+
+.btnAdd{
+    color: black;
+    display: inline;
+    width: 90px;
+    height: 30px;
+    margin: auto;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #2563EB;
+}
